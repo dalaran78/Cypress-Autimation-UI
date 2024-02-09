@@ -17,5 +17,10 @@ export default defineConfig({
   },
  // viewportWidth: 1200,
  // viewportHeight: 1400,
+ retries: {
+    runMode: 2,
+    openMode: 2,
+  },
+ // number of tries of test run and browswer open
   defaultCommandTimeout:16_000,
 });
