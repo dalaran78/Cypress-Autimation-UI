@@ -4,16 +4,16 @@
     "description": "Cypress Automation UI",
     "main": "index.js",
     "scripts": {
-      "open": "cypress open --e2e --browser chrome"
+        "open": "cypress open --e2e --browser chrome"
     },
     "author": "Sergei",
     "license": "ISC",
     "devDependencies": {
-      "cypress": "^13.6.2",
-      "cypress-iframe": "^1.0.1",
-      "typescript": "^5.3.3"
+        "cypress": "^13.6.2",
+        "cypress-iframe": "^1.0.1",
+        "typescript": "^5.3.3"
     },
     "dependencies": {
-      "dotenv": "^16.4.1"
+        "dotenv": "^16.4.1"
     }
-  }
+}
