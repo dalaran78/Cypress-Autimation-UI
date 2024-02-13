@@ -13,6 +13,7 @@ export default defineConfig({
         prod:'https://coding.pasv.us',
         demoQA:'https://demoqa.com',
         herokuapp:'https://the-internet.herokuapp.com',
+        playground:'https://play1.automationcamp.ir'
     }
   },
  // viewportWidth: 1200,
