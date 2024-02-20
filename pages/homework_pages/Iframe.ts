@@ -19,13 +19,18 @@ class IFrame {
     }
 
     clickButtonInsideNestedFrame() {
-        cy.frameLoaded(this.mainFrame);
-        cy.iframe(this.nestedFrame).iframe().then(nestedFrame=> {
-          cy.wrap(nestedFrame).find(this.nestedFrameTitle).should("have.text", "Frame2 (ID=frame2)");
-          cy.wrap(nestedFrame).find(this.nestedFrameButton).click();
-          cy.wrap(nestedFrame).find(this.nestedFrameButton).should("have.text", "Clicked");
+        cy.iframe(this.mainFrame).iframe().then((iframe1) => {
+            cy.wrap(iframe1).find(this.nestedFrame).then((iframe2) => {
+                const bodyIframe2 = iframe2.contents().find('body');
+                cy.wrap(bodyIframe2).contains('Frame2 (ID=frame2)');
+                cy.wrap(bodyIframe2)
+                    .find(this.nestedFrameButton)
+                    .click()
+                    .should('have.text', 'Clicked')
+                    .and('have.css', 'background-color', 'rgb(55, 58, 60)');
+            });
         });
-      }
-  }
+    }
+}
 
-  export const IFramePage = new IFrame();
+export const IFramePage = new IFrame();

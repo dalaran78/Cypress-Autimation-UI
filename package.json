@@ -4,13 +4,16 @@
     "description": "Cypress Automation UI",
     "main": "index.js",
     "scripts": {
-        "open": "cypress open --e2e --browser chrome"
+        "open": "cypress open --e2e --browser chrome",
+        "prettier": "npx prettier . --write",
+        "cypress-run": "cypress run --browser chrome --spec cypress/e2e/lessons/lesson-autoFill.cy.ts"
     },
     "author": "Sergei",
     "license": "ISC",
     "devDependencies": {
         "cypress": "^13.6.2",
         "cypress-iframe": "^1.0.1",
+        "cypress-mochawesome-reporter": "^3.8.1",
         "prettier": "3.2.5",
         "typescript": "^5.3.3"
     },
