@@ -11,7 +11,7 @@ export default defineConfig({
       // implement node event listeners here
     },
     env:{
-        // ...process.env,
+        ...process.env,
         stage:'https://stage.pasv.us',
         prod:'https://coding.pasv.us',
         demoQA:'https://demoqa.com',

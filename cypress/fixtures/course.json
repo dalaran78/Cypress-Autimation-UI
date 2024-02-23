@@ -1,0 +1,1453 @@
+{
+    "message": "Courses get. Success",
+    "success": true,
+    "fail": false,
+    "payload": [
+        {
+            "image": "",
+            "order": 1000,
+            "dependsOn": null,
+            "allowedForRoles": "",
+            "sellOptions": [],
+            "_id": "5d1cba85086fc30038bf1854",
+            "description": "Базовые понятия в Java",
+            "members": [],
+            "sections": [],
+            "name": "Java Syntax",
+            "accessType": "members",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "createdAt": "2019-07-03T14:24:05.570Z",
+            "updatedAt": "2019-07-03T14:24:05.570Z"
+        },
+        {
+            "image": "",
+            "order": 1000,
+            "dependsOn": null,
+            "sellOptions": [],
+            "_id": "5eea941bba6605003cbc9f4f",
+            "description": "",
+            "allowedForRoles": "",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "5efa28583f0046003c2556b1",
+                    "lessons": [
+                        "5efa33423f0046003c255798"
+                    ]
+                },
+                {
+                    "_id": "5eea961aba6605003cbc9f69",
+                    "lessons": [
+                        "5ef3c3b5a3796b003c61193b",
+                        "5eea9643ba6605003cbc9f6d",
+                        "5f07e5779a042d003cd33a2b",
+                        "5f07e5a79a042d003cd33a34",
+                        "5f07e6239a042d003cd33a48"
+                    ]
+                },
+                {
+                    "_id": "5eea968fba6605003cbc9f73",
+                    "lessons": [
+                        "5ef90965231b98003c535067",
+                        "5ef90eba231b98003c535119",
+                        "5ef90f96231b98003c53512f",
+                        "5ef916a2231b98003c5351ee",
+                        "5ef917a8231b98003c535210",
+                        "5ef91824231b98003c53521f",
+                        "5ef91b93231b98003c535287",
+                        "5ef91c0a231b98003c53529e",
+                        "5ef91cdf231b98003c5352c1",
+                        "5ef91b3f231b98003c535275",
+                        "5ef91be9231b98003c535298"
+                    ]
+                },
+                {
+                    "_id": "5ef41c124956ea003cc028f9",
+                    "lessons": [
+                        "5ef41cec4956ea003cc0291b",
+                        "5ef4203d4956ea003cc029be",
+                        "5ef42e854956ea003cc02c15",
+                        "5ef424044956ea003cc02a2b",
+                        "5ef42cce4956ea003cc02baf",
+                        "5ef42ce14956ea003cc02bb3",
+                        "5ef425554956ea003cc02a6d",
+                        "5ef42e124956ea003cc02bfe"
+                    ]
+                },
+                {
+                    "_id": "5ef92a023f0046003c253a4a",
+                    "lessons": [
+                        "5ef92a823f0046003c253a56",
+                        "5ef92b783f0046003c253a90",
+                        "5ef92dec3f0046003c253afb",
+                        "5ef94d973f0046003c25400b",
+                        "5ef94e9b3f0046003c254031",
+                        "5ef94fcb3f0046003c254056",
+                        "5ef95b393f0046003c254261",
+                        "5ef95cf73f0046003c2542b6"
+                    ]
+                },
+                {
+                    "_id": "5ef427514956ea003cc02ad3",
+                    "lessons": [
+                        "5ef427b24956ea003cc02aea",
+                        "5ef428174956ea003cc02afc",
+                        "5ef428294956ea003cc02b00"
+                    ]
+                },
+                {
+                    "_id": "5ef42fdc4956ea003cc02c61",
+                    "lessons": [
+                        "5ef430104956ea003cc02c6b",
+                        "5ef430354956ea003cc02c71",
+                        "5ef433ce4956ea003cc02d0b"
+                    ]
+                },
+                {
+                    "_id": "5ef58665055434003c7a12b0",
+                    "lessons": [
+                        "5ef58788055434003c7a12ca",
+                        "5ef58858055434003c7a12da"
+                    ]
+                },
+                {
+                    "_id": "5ef588b6055434003c7a12f4",
+                    "lessons": [
+                        "5ef5898f055434003c7a1317",
+                        "5ef58f45055434003c7a1414",
+                        "5ef59129055434003c7a1466"
+                    ]
+                },
+                {
+                    "_id": "5ef59146055434003c7a146a",
+                    "lessons": [
+                        "5f07996a15e61c003c2caf47",
+                        "5f0799e915e61c003c2caf75",
+                        "5f079cc915e61c003c2caf96",
+                        "5f079e0315e61c003c2cafae",
+                        "5f07d7cc15e61c003c2cb8ad"
+                    ]
+                },
+                {
+                    "_id": "5f07a1e615e61c003c2cb03a",
+                    "lessons": [
+                        "5f07a26215e61c003c2cb046",
+                        "5f07a37115e61c003c2cb06d"
+                    ]
+                },
+                {
+                    "_id": "5f07a3e815e61c003c2cb07c",
+                    "lessons": [
+                        "5f07a6af15e61c003c2cb0fb"
+                    ]
+                },
+                {
+                    "_id": "5f07f6e29a042d003cd33d24",
+                    "lessons": [
+                        "5f0d3b1c4d5283003cde3c25",
+                        "5f0d3be84d5283003cde3c47",
+                        "5f0d3c5f4d5283003cde3c56",
+                        "5f0d3ce94d5283003cde3c6e",
+                        "5f0d3e714d5283003cde3c9f"
+                    ]
+                },
+                {
+                    "_id": "5f07a7f115e61c003c2cb12d",
+                    "lessons": [
+                        "5f07a9e515e61c003c2cb1af",
+                        "5f07aa3a15e61c003c2cb1bd"
+                    ]
+                },
+                {
+                    "_id": "5f07aa6c15e61c003c2cb1c6",
+                    "lessons": [
+                        "5f07ac9215e61c003c2cb21f",
+                        "5f0d3f224d5283003cde3cb1",
+                        "5f0d3fd94d5283003cde3cc5",
+                        "5f0d422d4d5283003cde3d0d",
+                        "5f0d43324d5283003cde3d5d",
+                        "5f0d43c34d5283003cde3d7d",
+                        "5f0d45174d5283003cde3daf"
+                    ]
+                },
+                {
+                    "_id": "5f07f68f9a042d003cd33d11",
+                    "lessons": [
+                        "5f0b97e5d81479003c185450",
+                        "5f0b9a4dd81479003c1854f8"
+                    ]
+                },
+                {
+                    "_id": "5f07f6a59a042d003cd33d18",
+                    "lessons": [
+                        "5f07f7619a042d003cd33d3d",
+                        "5f07f8359a042d003cd33d59"
+                    ]
+                },
+                {
+                    "_id": "5f07f6c59a042d003cd33d1f",
+                    "lessons": [
+                        "5f08db8a9a042d003cd34f30",
+                        "5f08dccc9a042d003cd34f73"
+                    ]
+                },
+                {
+                    "_id": "5f0d368d4d5283003cde3b8e",
+                    "lessons": [
+                        "5f19c0aae71279003c6204bb",
+                        "5f19bbcee71279003c62006d",
+                        "5f19c110e71279003c620616",
+                        "5f19c3ebe71279003c620d33",
+                        "5f19cdaae71279003c621d17",
+                        "5f19b5a123dffc003c6abdda",
+                        "5f0de395287aac003c941c69",
+                        "5f0e6372287aac003c942ee7",
+                        "5f0e6119287aac003c942ea3",
+                        "5f0e671d287aac003c942f0d",
+                        "5f0e67d8287aac003c942f1d",
+                        "5f18854da2ce2a003cc86977",
+                        "5f18864da2ce2a003cc86b16",
+                        "5f18877ea2ce2a003cc86d91",
+                        "5f1892ffb1b7e0003c11fa12",
+                        "5f199c1223dffc003c6a92c5",
+                        "5f199d0e23dffc003c6a951d",
+                        "5f19a5dc23dffc003c6a9862",
+                        "5f19a27323dffc003c6a9841",
+                        "5f19ab6923dffc003c6aa816",
+                        "5f19b71823dffc003c6abfac",
+                        "5f26f95d59d46b003c0ae664",
+                        "5f25b7d5d44f7e003ca80fc4",
+                        "5f25de84d44f7e003ca8e872",
+                        "5f25e078d44f7e003ca8f4f8",
+                        "5f26f25059d46b003c0add7f",
+                        "5f26f47859d46b003c0ae07a",
+                        "5f26f62459d46b003c0ae2de",
+                        "5f26fe3759d46b003c0af3ac"
+                    ]
+                },
+                {
+                    "_id": "5ef91fa03f0046003c253933",
+                    "lessons": [
+                        "5ef921313f0046003c253959"
+                    ]
+                }
+            ],
+            "name": "QA Basic - Manual Testing",
+            "accessType": "members",
+            "owner": "5da5e0730d6bca00389a0091",
+            "createdAt": "2020-06-17T22:07:23.744Z",
+            "updatedAt": "2020-08-13T00:19:46.952Z"
+        },
+        {
+            "image": "",
+            "order": 1000,
+            "dependsOn": null,
+            "sellOptions": [],
+            "_id": "5f663b2cb87694003c871dbe",
+            "description": "",
+            "allowedForRoles": "",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "5f66410fb87694003c873a6b",
+                    "lessons": [
+                        "5f66411fb87694003c873a6f",
+                        "5f664130b87694003c873a73"
+                    ]
+                },
+                {
+                    "_id": "5f664157b87694003c873a83",
+                    "lessons": [
+                        "5f664167b87694003c873a89",
+                        "5f66417bb87694003c873a8e",
+                        "5f664190b87694003c873b01"
+                    ]
+                },
+                {
+                    "_id": "5f6641a8b87694003c873b09",
+                    "lessons": [
+                        "5f6641b6b87694003c873b0d",
+                        "5f6641cab87694003c873b11",
+                        "5f6641d9b87694003c873b17",
+                        "5f6641edb87694003c873b1d",
+                        "5f664203b87694003c873b3b",
+                        "5f664216b87694003c873b4a",
+                        "5f664227b87694003c873b55",
+                        "5f66424bb87694003c873c3a",
+                        "5f66425ab87694003c873c40"
+                    ]
+                },
+                {
+                    "_id": "5f66426ab87694003c873c46",
+                    "lessons": [
+                        "5f66427cb87694003c873c4a",
+                        "5f664293b87694003c873cba",
+                        "5f6642dab87694003c873cd3",
+                        "5f6642e9b87694003c873cd7",
+                        "5f664301b87694003c873d48",
+                        "5f66432db87694003c873d56",
+                        "5f66433fb87694003c873d5c",
+                        "5f66434fb87694003c873d60",
+                        "5f66435fb87694003c873d65"
+                    ]
+                },
+                {
+                    "_id": "5f664384b87694003c873d6e",
+                    "lessons": [
+                        "5f664394b87694003c873d71",
+                        "5f6643a5b87694003c873d78",
+                        "5f6643c8b87694003c873d7d",
+                        "5f669ba9b87694003c88ecc2",
+                        "5f66dcf6b87694003c8ae275",
+                        "5f692f10743cd3003cad4e23",
+                        "5f69388c743cd3003cad7fcf",
+                        "5f6947c3743cd3003cade79c",
+                        "5f6a7df8e84d4a003cbdadf6",
+                        "5f6a8eb1e84d4a003cbe2fb6",
+                        "5f698c8e743cd3003caffbd6",
+                        "5f6a9100e84d4a003cbe3e6e",
+                        "5f66dd07b87694003c8ae321",
+                        "5f6643d8b87694003c873d82",
+                        "5f66995bb87694003c88ddf9"
+                    ]
+                },
+                {
+                    "_id": "5f664407b87694003c873d87",
+                    "lessons": [
+                        "5f664418b87694003c873d8a",
+                        "5f664436b87694003c873d8e",
+                        "5f66444ab87694003c873d94",
+                        "5f66445ab87694003c873f0f",
+                        "5f66446cb87694003c873f81",
+                        "5f66447fb87694003c873f87",
+                        "5f66448eb87694003c874010",
+                        "5f6644b9b87694003c874088"
+                    ]
+                },
+                {
+                    "_id": "5f664536b87694003c87421c",
+                    "lessons": [
+                        "5f664545b87694003c87421f",
+                        "5f664560b87694003c874224",
+                        "5f664570b87694003c874321",
+                        "5f66457fb87694003c874394",
+                        "5f664591b87694003c874513",
+                        "5f66459fb87694003c874518",
+                        "5f6645aeb87694003c87451c"
+                    ]
+                }
+            ],
+            "name": "QA basic - v. 0.0.1",
+            "accessType": "members",
+            "owner": "5dae2ec693f4e4003818cff0",
+            "createdAt": "2020-09-19T17:09:00.931Z",
+            "updatedAt": "2020-09-19T17:51:50.505Z"
+        },
+        {
+            "sellOptions": [],
+            "_id": "5d1cbf67086fc30038bf1859",
+            "description": "Функции, методы строк, массивов, чисел, работа с объектами. Много задач. \n\nЭтот курс можно начать, если у вас роль 'student' и вы закончили курс JS Syntax. ",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "5d2a081562cf140038fe221c",
+                    "lessons": [
+                        "5d2a083562cf140038fe221d",
+                        "5d2a085762cf140038fe221e",
+                        "5d2a08ef62cf140038fe221f",
+                        "5d2a0c8162cf140038fe2220",
+                        "5d2a0c9662cf140038fe2221"
+                    ]
+                },
+                {
+                    "_id": "5d2a0fc662cf140038fe223f",
+                    "lessons": [
+                        "5d2a106b62cf140038fe2240",
+                        "5d2a108c62cf140038fe2241",
+                        "5dd377c95f1c3e003c226c66",
+                        "5dce263f4e67b9003c97d90d",
+                        "5ddf07af1a1ed1003c32d98c",
+                        "5d2a141a62cf140038fe227d",
+                        "5ddc43e2a9ccbf003caa26d3",
+                        "5d2eb5520f1c8500385e7063",
+                        "5ddf08091a1ed1003c32d990",
+                        "5ddc433fa9ccbf003caa26c3",
+                        "5dcf79a4d95082003c265630",
+                        "5dce2b744e67b9003c97d922",
+                        "5ddc369ba9ccbf003caa2675",
+                        "5ddf01541a1ed1003c32d96a",
+                        "5ddc36baa9ccbf003caa2679",
+                        "5ddc3688a9ccbf003caa2672"
+                    ]
+                },
+                {
+                    "_id": "5dcf0fc1a9b298003cf84b8b",
+                    "lessons": [
+                        "5dcfabc5d95082003c2659b2",
+                        "5dcfad79d95082003c2659ce",
+                        "5ddc56daa9ccbf003caa287f",
+                        "5dcfacbcd95082003c2659cc",
+                        "5dcfac42d95082003c2659c3",
+                        "5dcfa9dcd95082003c265985",
+                        "5dcfaa24d95082003c265989",
+                        "5dcfaa95d95082003c265995",
+                        "5dcfadbfd95082003c2659d0",
+                        "5dcfadebd95082003c2659d5",
+                        "5dcfaacad95082003c26599b",
+                        "5dcfab0ad95082003c2659a9",
+                        "5dcfab2fd95082003c2659ab",
+                        "5dd5dff6b51a0b003c0b5624",
+                        "5dcfac80d95082003c2659c6",
+                        "5dcfaca1d95082003c2659ca",
+                        "5dcfab5bd95082003c2659ad",
+                        "5de7289bd889cf003c550726",
+                        "5dcfaf9ed95082003c2659f5",
+                        "5dcfaffcd95082003c2659f9",
+                        "5dcfaf6fd95082003c2659f3",
+                        "5dcfaf40d95082003c2659f1"
+                    ]
+                },
+                {
+                    "_id": "5d33dad60ca4f00038111264",
+                    "lessons": [
+                        "5d33db260ca4f00038111265",
+                        "5dcfb4dfd95082003c265a29",
+                        "5dcf541ea9b298003cf84f14",
+                        "5dcf5384a9b298003cf84f06",
+                        "5dcf59eda9b298003cf84f53",
+                        "5dcf72ced95082003c26560e",
+                        "5dda369c6846ec003c275ca2",
+                        "5de5c9958ead2e003c6ff6d0",
+                        "5de5cbe48ead2e003c6ff6ef",
+                        "5d33db930ca4f00038111267",
+                        "5d33dbbb0ca4f00038111268",
+                        "5de01ce063f733003ce35472",
+                        "5dda33436846ec003c275c81",
+                        "5dda335a6846ec003c275c83",
+                        "5dda30bd6846ec003c275c7a",
+                        "5dda30ef6846ec003c275c7c",
+                        "5dcf89bdd95082003c2656e3",
+                        "5dda31346846ec003c275c7e",
+                        "5de14b7862a8e5003cbaab29",
+                        "5de14e9462a8e5003cbaab41",
+                        "5de14e2e62a8e5003cbaab37",
+                        "5de14ddf62a8e5003cbaab31",
+                        "5de14e0c62a8e5003cbaab35",
+                        "5de14e7b62a8e5003cbaab3e",
+                        "5dcf7185d95082003c265601",
+                        "5d33db4f0ca4f00038111266",
+                        "5de14ebe62a8e5003cbaab43",
+                        "5de1d8ed62a8e5003cbab088"
+                    ]
+                },
+                {
+                    "_id": "5d2a146662cf140038fe227e",
+                    "lessons": [
+                        "5d2eb6620f1c8500385e7064",
+                        "5d2eb6c20f1c8500385e7065",
+                        "5d2eb8a90f1c8500385e7066",
+                        "5d2eb8c10f1c8500385e7067",
+                        "5dcb0983a7c36b003ccf2052",
+                        "5dcb073ba7c36b003ccf203a",
+                        "5dcb0746a7c36b003ccf203b",
+                        "5d355ff3fb8d7d0038da2701",
+                        "5dcb06d1a7c36b003ccf202c",
+                        "5dcb06dda7c36b003ccf202d",
+                        "5dcb0768a7c36b003ccf203e",
+                        "5dcb0771a7c36b003ccf203f",
+                        "5dcb0785a7c36b003ccf2040",
+                        "5dcb07d4a7c36b003ccf2042",
+                        "5dcb0800a7c36b003ccf2048",
+                        "5dcb0945a7c36b003ccf204f",
+                        "5dcb0852a7c36b003ccf204a",
+                        "5dcb085ca7c36b003ccf204b",
+                        "5dcb0928a7c36b003ccf204e",
+                        "5dcb081da7c36b003ccf2049",
+                        "5dcb08afa7c36b003ccf204c",
+                        "5dcb0a49a7c36b003ccf2057"
+                    ]
+                },
+                {
+                    "_id": "5d33dc3a0ca4f00038111269",
+                    "lessons": [
+                        "5d33dc850ca4f0003811126a",
+                        "5dcfb4cad95082003c265a27",
+                        "5ddc85dca9ccbf003caa2b82",
+                        "5d33dcbc0ca4f0003811126b",
+                        "5ddc84b5a9ccbf003caa2b79",
+                        "5ddc845ea9ccbf003caa2b69",
+                        "5ddc858ba9ccbf003caa2b80",
+                        "5deabdfaf95f5f003cfcf0de"
+                    ]
+                },
+                {
+                    "_id": "5dcfb4acd95082003c265a25",
+                    "lessons": [
+                        "5dec575651d520003c3a44ba",
+                        "5ded9abe727575003c8fc7dd",
+                        "5ded9828727575003c8fc7ac",
+                        "5ded98d7727575003c8fc7b7",
+                        "5ded98cf727575003c8fc7b3",
+                        "5ded9906727575003c8fc7bb",
+                        "5ded9a68727575003c8fc7d4",
+                        "5ded996b727575003c8fc7c2",
+                        "5ded9971727575003c8fc7c4",
+                        "5ded9986727575003c8fc7c6"
+                    ]
+                },
+                {
+                    "_id": "5dda336c6846ec003c275c85",
+                    "lessons": [
+                        "5df456c23ace92003c537437"
+                    ]
+                }
+            ],
+            "name": "JavaScript Practice",
+            "accessType": "all",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "createdAt": "2019-07-03T14:44:55.676Z",
+            "updatedAt": "2023-04-30T23:16:26.156Z",
+            "allowedForRoles": "student",
+            "depend": "5c140b2b42f6ea23059cbe8f",
+            "dependsOn": null,
+            "image": "https://course-qa-basics.s3.us-west-1.amazonaws.com/js-practice-thumb.jpg",
+            "order": 3
+        },
+        {
+            "sellOptions": [],
+            "_id": "5f533d699a51f5003cb0fcab",
+            "description": "В процессе наполнения. Разработка серверной части на Node JS. Для прохождения этого курса необходимы знания JS на базовом уровне и желательно знать HTTP протокол.",
+            "allowedForRoles": "student",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "5f533da39a51f5003cb0fcb7",
+                    "lessons": [
+                        "5f533dcb9a51f5003cb0fcbf",
+                        "5f533e0a9a51f5003cb0ff58",
+                        "5f533e2d9a51f5003cb0ff5c",
+                        "5f533eac9a51f5003cb10218",
+                        "5f533fd39a51f5003cb105f3",
+                        "5f53403e9a51f5003cb10864"
+                    ]
+                },
+                {
+                    "_id": "5f5341fb9a51f5003cb10d01",
+                    "lessons": [
+                        "5f5343de9a51f5003cb10f85",
+                        "5f5344dd9a51f5003cb11575",
+                        "5f53441c9a51f5003cb11176",
+                        "5f534f059a51f5003cb137ab",
+                        "5f53500d9a51f5003cb1386a",
+                        "5f55c5465e977a003c740e54"
+                    ]
+                },
+                {
+                    "_id": "5f53ecadb6c397003cb3ef80",
+                    "lessons": [
+                        "5f53eccdb6c397003cb3f35f",
+                        "5f53ed5eb6c397003cb3f8e7",
+                        "5f543096b6c397003cb51510",
+                        "5f546414b6c397003cb652d5",
+                        "5f54644ab6c397003cb652db",
+                        "5f54649db6c397003cb652e1",
+                        "5f54b36bb6c397003cb7c5e7"
+                    ]
+                },
+                {
+                    "_id": "5f54b37ab6c397003cb7c5eb",
+                    "lessons": [
+                        "5f54b3deb6c397003cb7c7ff",
+                        "5f54bae9b6c397003cb7edcd",
+                        "5f54bb16b6c397003cb7ee47"
+                    ]
+                },
+                {
+                    "_id": "5f54bb31b6c397003cb7ee4e",
+                    "lessons": [
+                        "5f54bb4cb6c397003cb7efce",
+                        "5f552d215e977a003c707d87",
+                        "5f5d9b76739384003c2bcd36",
+                        "5f5d9b99739384003c2bcea5"
+                    ]
+                },
+                {
+                    "_id": "5f5d9bb3739384003c2bceaa",
+                    "lessons": [
+                        "5f5d9bca739384003c2bcead",
+                        "5f5d9be8739384003c2bd21e",
+                        "5f5d9c12739384003c2bd228",
+                        "5f61ac9a55b5de003c3aa731",
+                        "5f61acba55b5de003c3aa735",
+                        "5f643ee69c04f9003ca57938",
+                        "5f643f119c04f9003ca57cc5",
+                        "5f643f459c04f9003ca57f51",
+                        "5f646004f7d5ba003ccc8f87",
+                        "5f646031f7d5ba003ccc8f8b",
+                        "5f646052f7d5ba003ccc8f8f"
+                    ]
+                },
+                {
+                    "_id": "6073a5fc48b606003a16c69c",
+                    "lessons": [
+                        "6073a61848b606003a16c69f",
+                        "6073a66548b606003a16c6a9",
+                        "6073a7ca48b606003a16c752",
+                        "6073a82448b606003a16c75a",
+                        "6073a85d48b606003a16c764",
+                        "6073a89148b606003a16c7a9",
+                        "607520ed6bb21e003a56f01f",
+                        "60751d476bb21e003a56e62c",
+                        "607521686bb21e003a56f209",
+                        "6075218c6bb21e003a56f21d",
+                        "60803d1ccacd28003ad8a760",
+                        "60803dbdcacd28003ad8a773"
+                    ]
+                }
+            ],
+            "name": "Express JS",
+            "accessType": "all",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "createdAt": "2020-09-05T07:25:29.394Z",
+            "updatedAt": "2023-04-30T23:37:48.871Z",
+            "dependsOn": null,
+            "image": "https://course-qa-basics.s3.us-west-1.amazonaws.com/express-thumb.jpg",
+            "order": 4
+        },
+        {
+            "sellOptions": [],
+            "_id": "5fcc749061045d003aa18fba",
+            "description": "Разработка веб-приложений с помощью самого популярного инструмента React. ",
+            "dependsOn": null,
+            "allowedForRoles": "student",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "61dc35e6f75c700e70cac2a7",
+                    "lessons": [
+                        "61dc366cf75c700e70cac833",
+                        "61dc3719f75c700e70cace44",
+                        "61dc3731f75c700e70cad21f",
+                        "61dc3803f75c700e70cad9a0",
+                        "61dc384ff75c700e70caddad"
+                    ]
+                },
+                {
+                    "_id": "61dc3886f75c700e70cadf9d",
+                    "lessons": [
+                        "61dc38cff75c700e70cae2f0"
+                    ]
+                },
+                {
+                    "_id": "61dc3967f75c700e70caeca6",
+                    "lessons": [
+                        "61dc3988f75c700e70caedaf",
+                        "61dc39ddf75c700e70caf432",
+                        "61dc3a39f75c700e70caf78c",
+                        "61dc3a97f75c700e70cafa98",
+                        "61dc3ae2f75c700e70cb0498",
+                        "61dc3b36f75c700e70cb06a3",
+                        "61dc3b9df75c700e70cb13e4",
+                        "61dc3bf3f75c700e70cb1b1f"
+                    ]
+                },
+                {
+                    "_id": "5fcc74a761045d003aa18fc0",
+                    "lessons": [
+                        "5fcc74bd61045d003aa18fc3",
+                        "5fcc74f361045d003aa192a2",
+                        "5fcc751d61045d003aa192a6",
+                        "5fcc754d61045d003aa1933a",
+                        "5fcc758c61045d003aa1933d",
+                        "5fcc75d461045d003aa19726"
+                    ]
+                },
+                {
+                    "_id": "609a09dcd9bc74003af2a85d",
+                    "lessons": [
+                        "609a0a02d9bc74003af2a862",
+                        "609a0a5fd9bc74003af2a870",
+                        "620690bc689d505efd37abdf",
+                        "609a1618d9bc74003af2c02b",
+                        "609a0aa1d9bc74003af2aca1",
+                        "60a0821c226df1003aa31818",
+                        "60a08254226df1003aa31828"
+                    ]
+                },
+                {
+                    "_id": "61dc3f50f75c700e70cb62ab",
+                    "lessons": [
+                        "61dc3f8cf75c700e70cb67ea",
+                        "6205d6a2689d505efd2694cb"
+                    ]
+                },
+                {
+                    "_id": "60a082b3226df1003aa31a7f",
+                    "lessons": [
+                        "60a082c3226df1003aa31c92",
+                        "61dc3e71f75c700e70cb4eee",
+                        "61dc3ec1f75c700e70cb56a7",
+                        "62365a3cfab64c0fd71bc9e8",
+                        "61dc3f01f75c700e70cb5b26",
+                        "62c1c603f581af324f738cd2"
+                    ]
+                },
+                {
+                    "_id": "62365b54fab64c0fd71bdf6f",
+                    "lessons": [
+                        "62365b83fab64c0fd71bf12e",
+                        "623681defab64c0fd71e1b1e",
+                        "628953509214c5e878783208",
+                        "628a70ba374586f5d69bab26",
+                        "628a6f85374586f5d69ba441",
+                        "628a7221374586f5d69bb584",
+                        "628a7376374586f5d69bc174",
+                        "63829df0247b74ee3d5fae8d"
+                    ]
+                },
+                {
+                    "_id": "633f86df28ddf9d5cece5d33",
+                    "lessons": [
+                        "633f871428ddf9d5cece5dd0",
+                        "633f873a28ddf9d5cece5e9d",
+                        "633f876728ddf9d5cece5f0f",
+                        "633f878b28ddf9d5cece5f7b",
+                        "633f87ae28ddf9d5cece6424",
+                        "633f87d428ddf9d5cece6467",
+                        "633f87f628ddf9d5cece64ad",
+                        "633f881a28ddf9d5cece64e1",
+                        "633f884028ddf9d5cece656c",
+                        "633f886228ddf9d5cece65dd",
+                        "633f888528ddf9d5cece66d0"
+                    ]
+                },
+                {
+                    "_id": "629f63162003425a49ee7f35",
+                    "lessons": [
+                        "629f63a92003425a49ee82ca",
+                        "629f63e42003425a49ee8575"
+                    ]
+                },
+                {
+                    "_id": "629f68f7910b9d778b8d8f6a",
+                    "lessons": [
+                        "629f691a910b9d778b8d8fab",
+                        "629f69c5910b9d778b8d9407",
+                        "629fb729910b9d778b93df77",
+                        "629fb5c4910b9d778b93d7b8",
+                        "629fb62e910b9d778b93da84"
+                    ]
+                },
+                {
+                    "_id": "6079d462fd8922003af74025",
+                    "lessons": [
+                        "6079d46dfd8922003af74028",
+                        "6079d4a1fd8922003af74060",
+                        "6079d4c8fd8922003af74075",
+                        "6079d517fd8922003af74122",
+                        "6079d552fd8922003af7412d"
+                    ]
+                }
+            ],
+            "name": "React JS",
+            "accessType": "all",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "createdAt": "2020-12-06T06:05:04.511Z",
+            "updatedAt": "2023-02-21T05:22:15.027Z",
+            "image": "https://course-qa-basics.s3.us-west-1.amazonaws.com/photo_2022-06-16_21-43-50.jpg",
+            "order": 4
+        },
+        {
+            "sellOptions": [],
+            "_id": "5f449251891af4003c44e957",
+            "description": "Самое необходимое про HTML и CSS для тестировщиков и Front-end",
+            "allowedForRoles": "student",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "5f4492a1891af4003c44eaf3",
+                    "lessons": [
+                        "5f4492c2891af4003c44ef41",
+                        "5f44932b891af4003c44f4b3",
+                        "5f44935b891af4003c44f72b",
+                        "5f4493a0891af4003c44f9ca"
+                    ]
+                },
+                {
+                    "_id": "5f4493f1891af4003c44fb7a",
+                    "lessons": [
+                        "5f449418891af4003c44fb81"
+                    ]
+                },
+                {
+                    "_id": "5f44ae96891af4003c45ca81",
+                    "lessons": [
+                        "5f44aec5891af4003c45cbd8",
+                        "5f44b02f891af4003c45d4e1",
+                        "5f44db1b891af4003c4670bc",
+                        "5f44db8a891af4003c4670ea",
+                        "5f44dbbc891af4003c4670ee",
+                        "5f44dbdd891af4003c4670f2",
+                        "5f44dc07891af4003c4670f6",
+                        "5f44dc2f891af4003c46738c"
+                    ]
+                },
+                {
+                    "_id": "5f44dc54891af4003c467395",
+                    "lessons": [
+                        "5f44dc6b891af4003c467398",
+                        "5f44dca2891af4003c46739c",
+                        "5f44dcc6891af4003c4673a0",
+                        "5f44dcfc891af4003c467417"
+                    ]
+                }
+            ],
+            "name": "HTML, CSS Syntax",
+            "accessType": "all",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "createdAt": "2020-08-25T04:23:45.847Z",
+            "updatedAt": "2023-04-12T04:41:58.786Z",
+            "dependsOn": null,
+            "image": "https://course-qa-basics.s3.us-west-1.amazonaws.com/photo_2022-06-16_21-42-56.jpg",
+            "order": 5
+        },
+        {
+            "sellOptions": [],
+            "_id": "5f70329bbed3ac003cb1b06c",
+            "description": "Необходим для работы в команде для всех, кто пишет код.",
+            "allowedForRoles": "student",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "5f7032b2bed3ac003cb1b070",
+                    "lessons": [
+                        "5f7032c9bed3ac003cb1b173",
+                        "5f703304bed3ac003cb1b278",
+                        "5f70333abed3ac003cb1b27c",
+                        "5f703378bed3ac003cb1b3ca"
+                    ]
+                },
+                {
+                    "_id": "5f7033b6bed3ac003cb1b519",
+                    "lessons": [
+                        "5f7033cdbed3ac003cb1b51b",
+                        "5f7033efbed3ac003cb1b522",
+                        "5f703417bed3ac003cb1b529",
+                        "5f762fb2d3f073003ca3fd86",
+                        "5f76300ed3f073003ca4006c",
+                        "5f763111d3f073003ca4048e",
+                        "5f76315bd3f073003ca40581",
+                        "5f7633a0d3f073003ca40cad"
+                    ]
+                },
+                {
+                    "_id": "5f76343ed3f073003ca40d81",
+                    "lessons": [
+                        "5f7634e2d3f073003ca40e5c",
+                        "5f763519d3f073003ca40f2e"
+                    ]
+                }
+            ],
+            "name": "Git and GitHub",
+            "accessType": "all",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "createdAt": "2020-09-27T06:35:07.553Z",
+            "updatedAt": "2022-09-03T13:39:16.546Z",
+            "dependsOn": null,
+            "image": "https://course-qa-basics.s3.us-west-1.amazonaws.com/photo_2022-06-16_21-42-10.jpg",
+            "order": 6
+        },
+        {
+            "_id": "6578be20627e61b252066a71",
+            "accessType": "all",
+            "allowedForRoles": "student",
+            "createdAt": "2023-12-12T22:19:37.484Z",
+            "dependsOn": null,
+            "description": "Учим TypeScript для работы и собеседований. Пройдя курс, вы сможете с уверенностью сказать, что готовы к прохождению технического собеседования по TypeScript. К этому курсу можно приступить, если вы освоили JavaScript.",
+            "image": "",
+            "members": [],
+            "name": "TypeScript",
+            "order": 7,
+            "owner": "600d65a2faa971003a4fb068",
+            "sections": [
+                {
+                    "_id": "6578bd5bb91f5bbdd6dc96a0",
+                    "lessons": [
+                        "6578bd5bb91f5bbdd6dc96a1",
+                        "6578bd5bb91f5bbdd6dc96a2",
+                        "6578bd5bb91f5bbdd6dc96a3",
+                        "6578bd5bb91f5bbdd6dc96a4",
+                        "6578bd5bb91f5bbdd6dc96a5",
+                        "6578bd5bb91f5bbdd6dc96a6",
+                        "6578bd5bb91f5bbdd6dc96a7"
+                    ]
+                },
+                {
+                    "_id": "6578c878d3f85e02081bc491",
+                    "lessons": [
+                        "6578c878d3f85e02081bc492",
+                        "6578c878d3f85e02081bc493",
+                        "6578c878d3f85e02081bc494",
+                        "6578c878d3f85e02081bc495",
+                        "6578c878d3f85e02081bc496",
+                        "6578c878d3f85e02081bc497",
+                        "6578c878d3f85e02081bc498",
+                        "6578c878d3f85e02081bc499",
+                        "6578c878d3f85e02081bc49a",
+                        "6578c878d3f85e02081bc49b",
+                        "6578c878d3f85e02081bc49c"
+                    ]
+                },
+                {
+                    "_id": "6578cc49b918a6924f017c5c",
+                    "lessons": [
+                        "6578cc49b918a6924f017c5d",
+                        "6578cc49b918a6924f017c5e",
+                        "6578cc49b918a6924f017c5f",
+                        "6578cc49b918a6924f017c60"
+                    ]
+                },
+                {
+                    "_id": "6578cd5a0d90311ff4d45e50",
+                    "lessons": [
+                        "6578cd5a0d90311ff4d45e51",
+                        "6578cd5a0d90311ff4d45e52",
+                        "6578cd5a0d90311ff4d45e53"
+                    ]
+                },
+                {
+                    "_id": "6578ce487a46557505d0632c",
+                    "lessons": [
+                        "6578ce487a46557505d0632d",
+                        "6578ce487a46557505d0632e",
+                        "6578ce487a46557505d0632f",
+                        "6578ce487a46557505d06330",
+                        "6578ce487a46557505d06331"
+                    ]
+                }
+            ],
+            "sellOptions": [],
+            "updatedAt": "2023-12-18T11:50:03.473Z"
+        },
+        {
+            "sellOptions": [],
+            "_id": "6257846e1224311e20f842e9",
+            "name": "JS2 Module",
+            "image": "https://course-qa-basics.s3.us-west-1.amazonaws.com/photo_2022-06-16_21-41-07.jpg",
+            "order": 8,
+            "dependsOn": null,
+            "allowedForRoles": "student",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "6257848e1224311e20f84433",
+                    "lessons": [
+                        "6257849f1224311e20f844f5",
+                        "625784fc1224311e20f84781",
+                        "6257854e1224311e20f84894"
+                    ]
+                },
+                {
+                    "_id": "625785f61224311e20f84bbc",
+                    "lessons": [
+                        "625786051224311e20f84bde",
+                        "6259b100b6f0a62eeed508e9",
+                        "625786ce1224311e20f84f9b"
+                    ]
+                },
+                {
+                    "_id": "6257873d1224311e20f85023",
+                    "lessons": [
+                        "625788271224311e20f854aa"
+                    ]
+                },
+                {
+                    "_id": "6259e995b6f0a62eeed6cd79",
+                    "lessons": [
+                        "6259e9a7b6f0a62eeed6cfe2"
+                    ]
+                },
+                {
+                    "_id": "6323c1bf9cea54f2248e6c48",
+                    "lessons": [
+                        "6323c1d19cea54f2248e6c91",
+                        "6323c28f9cea54f2248e7872",
+                        "6323c2bd9cea54f2248e7910",
+                        "6323c32a9cea54f2248e7bcb",
+                        "6323c3679cea54f2248e7eb7",
+                        "6323c3be9cea54f2248e827e",
+                        "6323d98a36d797d85c3af34e",
+                        "6323d9b236d797d85c3af5db",
+                        "6323daaa36d797d85c3aff8c",
+                        "6323db0336d797d85c3b021c",
+                        "63255d6c262e19fb3d8b6204",
+                        "63255ddd262e19fb3d8b6407"
+                    ]
+                },
+                {
+                    "_id": "6326433a262e19fb3d91f1ea",
+                    "lessons": [
+                        "63287a3f67177736dfff58e0",
+                        "63287a8c67177736dfff5d74",
+                        "63287ae567177736dfff6251",
+                        "63287b1c67177736dfff62b3"
+                    ]
+                },
+                {
+                    "_id": "626344b839590055d5ddd84f",
+                    "lessons": [
+                        "626344d039590055d5ddd85b",
+                        "6263453c39590055d5ddd867",
+                        "6263461539590055d5ddd897",
+                        "62a200adf7cf07e745243c1a",
+                        "626345f139590055d5ddd885"
+                    ]
+                },
+                {
+                    "_id": "62a12de7809c50d7cbb4ff12",
+                    "lessons": [
+                        "62a132bc809c50d7cbb552ef",
+                        "62a1332d809c50d7cbb5545a",
+                        "62a13358809c50d7cbb55625",
+                        "62a133d4809c50d7cbb55ddd"
+                    ]
+                }
+            ],
+            "accessType": "all",
+            "createdAt": "2022-04-14T02:18:22.891Z",
+            "updatedAt": "2022-09-17T21:59:25.062Z",
+            "description": "Если вы прошли JS Syntax (JS1) приступайте к этому модулю"
+        },
+        {
+            "sellOptions": [],
+            "_id": "6328727967177736dffed1fb",
+            "name": "SQL",
+            "image": "https://course-qa-basics.s3.us-west-1.amazonaws.com/sql-thumb.jpg",
+            "order": 10,
+            "dependsOn": null,
+            "allowedForRoles": "student",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "632873d767177736dffeea7a",
+                    "lessons": [
+                        "632873e567177736dffeeaef",
+                        "6328747f67177736dffef3d2",
+                        "632874ec67177736dffef9ad"
+                    ]
+                },
+                {
+                    "_id": "6328752467177736dffeff87",
+                    "lessons": [
+                        "6328754c67177736dfff03bd",
+                        "6328759667177736dfff0f29",
+                        "632875ca67177736dfff12c8"
+                    ]
+                },
+                {
+                    "_id": "6328764767177736dfff1d6a",
+                    "lessons": [
+                        "6328765267177736dfff1d90",
+                        "632876a167177736dfff228d",
+                        "632876c267177736dfff2c07",
+                        "6328770167177736dfff3053"
+                    ]
+                },
+                {
+                    "_id": "633e1b319d371afae27694f4",
+                    "lessons": [
+                        "633e1b439d371afae276954f",
+                        "633e1b709d371afae27695b6",
+                        "633e1ba89d371afae2769bdf",
+                        "633e1bd59d371afae2769cd2"
+                    ]
+                }
+            ],
+            "accessType": "all",
+            "createdAt": "2022-09-19T13:45:29.191Z",
+            "updatedAt": "2022-11-23T20:51:21.935Z",
+            "description": "Самое необходимое для работы с SQL базами данных"
+        },
+        {
+            "sellOptions": [],
+            "_id": "5c140b2b42f6ea23059cbe8f",
+            "description": "От простого к сложному шаг за шагом. Пройти к следующей лекции возможно только пройдя тест.",
+            "members": [
+                {
+                    "_id": "5b7366b42ffb85d6053b8649",
+                    "name": "Viktor Bogutskii"
+                }
+            ],
+            "name": "JavaScript Syntax. Archived",
+            "accessType": "all",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "createdAt": "2018-12-14T19:57:31.715Z",
+            "updatedAt": "2023-06-09T04:45:16.539Z",
+            "sections": [
+                {
+                    "_id": "5cde470f21fc0e0038aaabdc",
+                    "lessons": [
+                        "5cde476f21fc0e0038aaabdd",
+                        "5ce0adafcede66003877df4f"
+                    ]
+                },
+                {
+                    "_id": "5c31c5300ea7dab6ce9ebe03",
+                    "lessons": [
+                        "5ce08caf2f4ab700380527e9",
+                        "5cfc6784aae04400381aa685",
+                        "5ce08cee2f4ab700380527ea",
+                        "5ce092a42f4ab700380527eb",
+                        "5ce092d62f4ab700380527ec"
+                    ]
+                },
+                {
+                    "_id": "5c31c58a0ea7dab6ce9ebe04",
+                    "lessons": [
+                        "5ce0eed797bb8600381678c1",
+                        "5ce0ee4897bb8600381678c0",
+                        "5ce0f20597bb8600381678c2",
+                        "5ce0f21f97bb8600381678c3",
+                        "5ce0f27f97bb8600381678c5",
+                        "5ce0f24697bb8600381678c4",
+                        "5cfc6b20aae04400381aa687"
+                    ]
+                },
+                {
+                    "_id": "5ce3a44362ee720038943400",
+                    "lessons": [
+                        "5ce3a46162ee720038943401",
+                        "5ce3a49162ee720038943402",
+                        "5ce3a4a862ee720038943403",
+                        "5ce3a4c262ee720038943404",
+                        "5ce3a4d862ee720038943405"
+                    ]
+                },
+                {
+                    "_id": "5ce65183cc104c003802193e",
+                    "lessons": [
+                        "5ce651e5cc104c003802193f",
+                        "5ce6520dcc104c0038021941",
+                        "5ce65214cc104c0038021942",
+                        "5ce65204cc104c0038021940"
+                    ]
+                },
+                {
+                    "_id": "5cec9cfd1a278300384a7cb3",
+                    "lessons": [
+                        "5cecc06b1a278300384a7cdf",
+                        "5cecc0801a278300384a7ce0",
+                        "5cecc0911a278300384a7ce1",
+                        "5cecc0a01a278300384a7ce2"
+                    ]
+                },
+                {
+                    "_id": "5cecdce61a278300384a7d5f",
+                    "lessons": [
+                        "5cf357a6419a230038cf1cc9",
+                        "5cf358df419a230038cf1cca",
+                        "5cf3593a419a230038cf1ccb",
+                        "5cf359a7419a230038cf1ccc"
+                    ]
+                },
+                {
+                    "_id": "5cf36bb6419a230038cf1d04",
+                    "lessons": [
+                        "5cf4c3a2f0387b0038a16107",
+                        "5cf4c3b8f0387b0038a16108",
+                        "5cf4c3c7f0387b0038a16109",
+                        "5cf4c3d5f0387b0038a1610a"
+                    ]
+                },
+                {
+                    "_id": "5cf4c416f0387b0038a1610b",
+                    "lessons": [
+                        "5cfb55aab328e90038242663",
+                        "5cfb55bab328e90038242664",
+                        "5cfb55c7b328e90038242665",
+                        "5cfc2325aae04400381aa66e"
+                    ]
+                },
+                {
+                    "_id": "5cfc261aaae04400381aa66f",
+                    "lessons": [
+                        "5cfc285daae04400381aa670",
+                        "5cfc2873aae04400381aa671",
+                        "5cfc2881aae04400381aa672"
+                    ]
+                }
+            ],
+            "allowedForRoles": "student",
+            "dependsOn": null,
+            "image": "https://course-js-syntax.s3-us-west-1.amazonaws.com/reshai-zadachi.PNG",
+            "order": 20
+        },
+        {
+            "sellOptions": [],
+            "_id": "5d1cbad8086fc30038bf1856",
+            "description": "Курс создан для повторения и закрепления материалов онлайн-курса \"Manual testing. Основные определения для подготовки к интервью\".\n\nК каждому видео прикреплены 2-3 теста с вопросами по пройденному материалу.\n\nКурс обновляется.",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "5d362dc5fb8d7d0038da27a0",
+                    "lessons": [
+                        "5d362dfefb8d7d0038da27a1",
+                        "5d362e6ffb8d7d0038da27a2",
+                        "5d3636b5fb8d7d0038da27f4",
+                        "5d3636d1fb8d7d0038da27f5"
+                    ]
+                },
+                {
+                    "_id": "5d3636f2fb8d7d0038da27f6",
+                    "lessons": [
+                        "5d427b30ff215b0038961cf6"
+                    ]
+                }
+            ],
+            "name": "QA Basics",
+            "accessType": "all",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "createdAt": "2019-07-03T14:25:28.929Z",
+            "updatedAt": "2023-04-12T04:42:36.002Z",
+            "allowedForRoles": "student",
+            "dependsOn": null,
+            "image": "https://course-qa-basics.s3.us-west-1.amazonaws.com/photo_2022-06-16_21-40-25.jpg",
+            "order": 1000
+        },
+        {
+            "sellOptions": [],
+            "_id": "5e8f4bf674a4cd003c2a713c",
+            "description": "Начинайте изучение Python прямо сейчас - вступайте в новую увлекательную жизнь программирования на Python! В этом курсе вы познакомитесь с базовыми понятиями программирования, освоите синтаксис языка и пройдете путь от самых простых задач по созданию переменной до составления функций.",
+            "allowedForRoles": "",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "5e960a35968569003cb15f06",
+                    "lessons": [
+                        "5e960b5d968569003cb15f1b",
+                        "5e98f0cc0ceb2e003c9c7213",
+                        "5eaf282146c3db003c732fdd",
+                        "5e965b28968569003cb164c0",
+                        "5e965ff1968569003cb16565",
+                        "5e98f78e0ceb2e003c9c72a8",
+                        "5e9b6ac79928d2003c6a7cee"
+                    ]
+                },
+                {
+                    "_id": "5e9b73a69928d2003c6a7d5c",
+                    "lessons": [
+                        "5e9b73e49928d2003c6a7d66",
+                        "5eaf2e4446c3db003c73304d",
+                        "5e9b748a9928d2003c6a7d76",
+                        "5e9b74509928d2003c6a7d6c",
+                        "5eaf32f946c3db003c7330d3",
+                        "5eaf3d0246c3db003c733138",
+                        "5f09fde3bb6b85003c8005c7",
+                        "5f0a310ebb6b85003c800aba",
+                        "5f08f7619a042d003cd353ee",
+                        "5f0a36a1bb6b85003c800b36",
+                        "5f0f74d7900883003cdbe5ed",
+                        "5f1624ae443f8a003c79723d"
+                    ]
+                },
+                {
+                    "_id": "5f0a3961bb6b85003c800ba7",
+                    "lessons": [
+                        "5f147b64f5de03003c051128",
+                        "5f149a7af5de03003c052190",
+                        "5f14e150eae35b003c28247a"
+                    ]
+                },
+                {
+                    "_id": "5f15bb96eae35b003c287bd0",
+                    "lessons": [
+                        "5f15bbedeae35b003c287c69",
+                        "5f1b7c42f4cd7f003cac50d4",
+                        "5f15c304eae35b003c288208",
+                        "5f16159f443f8a003c796f06",
+                        "5f18b26d23dffc003c69a4b9",
+                        "5f18b88723dffc003c69ae3e",
+                        "5f18b95623dffc003c69af8d",
+                        "5f18c6bb23dffc003c69c36d",
+                        "5f1b80ccf4cd7f003cac54cd",
+                        "5f1b80fff4cd7f003cac54d4"
+                    ]
+                },
+                {
+                    "_id": "5f1e1ae579b053003cb7caa5",
+                    "lessons": [
+                        "5f22013a863aab003c3b2db6",
+                        "5f234130869685003c45ccbe",
+                        "5f220a60863aab003c3b5cd1",
+                        "5f23363b869685003c45a578",
+                        "5f2e1282770b11003c28a4be",
+                        "5f3f0414094a1e003c38a73d"
+                    ]
+                },
+                {
+                    "_id": "5f24e52760c655003c8b33ac",
+                    "lessons": [
+                        "5f24e8cc60c655003c8b3df1",
+                        "5f29881304bb29003c164077",
+                        "5f2dec54770b11003c281821",
+                        "5f320f7543a824003cd9ad41"
+                    ]
+                },
+                {
+                    "_id": "5f3c62ad664c63003cf1de04",
+                    "lessons": [
+                        "5f3c66a5664c63003cf1f278",
+                        "5f3c8173b4fdec003c5b5a7e",
+                        "5f4339e33daf42003ca65c0e",
+                        "5f3c6a18664c63003cf209f9",
+                        "5f3f052c094a1e003c38aedc",
+                        "5f3f411742e87c003c908c3a",
+                        "5f5ba4accc9e80003c38973d",
+                        "5f4340503daf42003ca68ace",
+                        "5f45972a32672a003c712b78",
+                        "5f5ba9a2cc9e80003c389ead",
+                        "5f7a6bccfee369003cd450db",
+                        "5f863abc559670003ca6425d"
+                    ]
+                },
+                {
+                    "_id": "5f86328e559670003ca6095a",
+                    "lessons": [
+                        "5f8635c3559670003ca630ac",
+                        "5f863c89559670003ca64d0b",
+                        "5f91f538c78961003cca8d6c",
+                        "5f91f6d3c78961003ccaa249",
+                        "5f91fa69c78961003ccacc58",
+                        "5f91fe1cc78961003ccafbc3",
+                        "5f920403c78961003ccb2178",
+                        "5f863435559670003ca61a7d"
+                    ]
+                }
+            ],
+            "name": "Python Syntax",
+            "accessType": "all",
+            "owner": "5ce60d1fcc104c003802183a",
+            "createdAt": "2020-04-09T16:23:18.765Z",
+            "updatedAt": "2023-03-08T17:58:15.444Z",
+            "dependsOn": null,
+            "image": "https://course-qa-basics.s3.us-west-1.amazonaws.com/photo_2022-06-16_21-38-43.jpg",
+            "order": 1000
+        },
+        {
+            "sellOptions": [],
+            "_id": "60a6b63cbcf8d3003ab76b9a",
+            "description": "В этом курсе вы закрепите навыки решения задач и работы с разными типами данных на языке  Python. Вас ждут тысячи интересных задач, которые вы научитесь решать, проходя курс от простых задач к сложным. Пройдя курс, вы сможете с уверенностью сказать, что вы готовы к прохождению  технического собеседования по решению алгоритмических задач. К этому курсу можно приступить, если вы прошли курс Python Syntax.",
+            "image": "https://course-qa-basics.s3.us-west-1.amazonaws.com/photo_2022-06-16_21-39-35.jpg",
+            "order": 1000,
+            "dependsOn": null,
+            "allowedForRoles": "",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "60a6b725bcf8d3003ab7765b",
+                    "lessons": [
+                        "60a6b92dbcf8d3003ab78d85",
+                        "60a6bbfebcf8d3003ab79fd2",
+                        "60a6be21bcf8d3003ab7adcf"
+                    ]
+                },
+                {
+                    "_id": "60a6bf73bcf8d3003ab7bb68",
+                    "lessons": [
+                        "60a6bfb0bcf8d3003ab7bb72",
+                        "60a6c1fabcf8d3003ab7c95a",
+                        "60a703d8bcf8d3003ab99a75",
+                        "60a6dbc8bcf8d3003ab8a9a3"
+                    ]
+                },
+                {
+                    "_id": "60a709abbcf8d3003ab9a731",
+                    "lessons": [
+                        "60a70a84bcf8d3003ab9a912",
+                        "60a70af7bcf8d3003ab9aa66",
+                        "60a70b7bbcf8d3003ab9aad4"
+                    ]
+                },
+                {
+                    "_id": "60a7009bbcf8d3003ab985db",
+                    "lessons": [
+                        "60a70109bcf8d3003ab989d4",
+                        "60a7032dbcf8d3003ab99a6b",
+                        "60a70486bcf8d3003ab99a7d",
+                        "60a704cdbcf8d3003ab99a84",
+                        "60a70517bcf8d3003ab99d50",
+                        "60a706a4bcf8d3003ab99fc0",
+                        "60a7090bbcf8d3003ab9a456"
+                    ]
+                }
+            ],
+            "name": "Python Practice",
+            "accessType": "all",
+            "owner": "5ce60d1fcc104c003802183a",
+            "createdAt": "2021-05-20T19:19:24.114Z",
+            "updatedAt": "2022-06-17T01:40:50.515Z"
+        },
+        {
+            "sellOptions": [],
+            "_id": "62d182a3f64df852198549f8",
+            "name": "API Testing for QA",
+            "image": "",
+            "order": 1000,
+            "dependsOn": null,
+            "allowedForRoles": "student",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "62d182cbf64df85219854a14",
+                    "lessons": [
+                        "62d1837cf64df85219854b43",
+                        "62d183abf64df85219854b6d",
+                        "62d81bd86ea83c6567347f66"
+                    ]
+                },
+                {
+                    "_id": "62d81c036ea83c656734806e",
+                    "lessons": [
+                        "62d81c466ea83c656734854b"
+                    ]
+                }
+            ],
+            "accessType": "all",
+            "createdAt": "2022-07-15T15:07:15.394Z",
+            "updatedAt": "2023-09-16T03:05:37.469Z",
+            "description": "В этом курсе мы разберем что такое API и как его тестировать"
+        },
+        {
+            "sellOptions": [],
+            "_id": "63fcf9dbc8dc3fbc269c32c9",
+            "name": "QA Manual Practice",
+            "image": "",
+            "order": 1000,
+            "dependsOn": null,
+            "allowedForRoles": "student",
+            "owner": "5b7366b42ffb85d6053b8649",
+            "members": [],
+            "sections": [
+                {
+                    "_id": "63fcf9f9c8dc3fbc269c33ff",
+                    "lessons": [
+                        "6480fc224467668dc3ba7c03",
+                        "6480fc224467668dc3ba7c02",
+                        "6480fc224467668dc3ba7c0d",
+                        "6480fc224467668dc3ba7c18",
+                        "6480fc224467668dc3ba7c23",
+                        "6480fc224467668dc3ba7c39",
+                        "63fcfa24c8dc3fbc269c378a"
+                    ]
+                }
+            ],
+            "accessType": "all",
+            "createdAt": "2023-02-27T18:43:39.440Z",
+            "updatedAt": "2023-08-17T01:24:05.858Z",
+            "description": "Кодовое название \"Маруся-2\" ;)"
+        }
+    ]
+}

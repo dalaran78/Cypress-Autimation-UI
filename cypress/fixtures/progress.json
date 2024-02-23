@@ -1,0 +1,16 @@
+{
+    "message": "Get courses progress",
+    "success": true,
+    "fail": false,
+    "payload": [
+        {
+            "_id": "65d5344dfa51470f34feba73",
+            "completedLessons": 60,
+            "totalLessons": 142,
+            "course": {
+                "_id": "635c05ba659f6d77abf1f4e7",
+                "name": "JavaScript Syntax "
+            }
+        }
+    ]
+}
