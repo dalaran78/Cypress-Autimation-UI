@@ -30,7 +30,7 @@ type stringTestType = {
 }
 
 interface stringTestType = {
-    lastName:string,
+    lastName:string
     firstName:string
 }
 
