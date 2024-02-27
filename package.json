@@ -6,7 +6,7 @@
   "scripts": {
     "open": "cypress open --e2e --browser chrome",
     "prettier": "npx prettier . --write",
-    "cypress-run": "cypress run --browser chrome --spec cypress/e2e/lessons/lesson-autoFill.cy.ts"
+    "cypressTest": "cypress run --browser chrome --spec cypress/e2e/**"
   },
   "author": "Sergei",
   "license": "ISC",
