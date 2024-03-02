@@ -6,7 +6,7 @@
   "scripts": {
     "open": "cypress open --e2e --browser chrome",
     "prettier": "npx prettier . --write",
-    "cypressTest": "cypress run --browser chrome --spec cypress/e2e/**"
+    "cypressTest": "cypress run --browser chrome --spec cypress/e2e/homework/**,cypress/e2e/lessons/**"
   },
   "author": "Sergei",
   "license": "ISC",

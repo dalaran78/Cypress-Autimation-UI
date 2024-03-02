@@ -1,10 +1,5 @@
 import { DemoQaAlertPage } from "../../../pages/homework_pages/Alert";
-Cypress.on("uncaught:exception", (err, runnable) => {
-  // returning false here prevents Cypress from
-  // failing the test
-  return false;
-});
-Cypress.session.clearAllSavedSessions();
+// Cypress.session.clearAllSavedSessions();
 
 describe("DEMOQA ALERTS", () => {
   // beforeEach(() => {
